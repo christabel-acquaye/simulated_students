@@ -19,4 +19,4 @@ For questions or feedback, please contact acquayechristabel@gmail.com.
 
 ## Acknowledgments
 
-We acknowledge the National Assessment of Educational Progress (NAEP) for providing the real-world item statistics used for validation in this work.
+We acknowledge and cite the **[National Assessment of Educational Progress (NAEP)](https://www.nationsreportcard.gov)** for providing the real-world item statistics used for validation in this work.
