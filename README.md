@@ -10,19 +10,12 @@ This repository contains the data for estimating question difficulty using simul
 
 This project explores predicting question difficulty by simulating a "classroom" of students at different grade levels (4th, 8th, and 12th grade) using LLMs. By prompting the LLM to role-play students with varying proficiency levels, we generate simulated student responses and use these outcomes to fit Item Response Theory (IRT) models.
 We compare the estimated difficulty parameters against real-world item-level difficulties from the National Assessment of Educational Progress (NAEP). 
-### Key Features
 
-- **Simulated Student Responses**: LLMs role-play students at different proficiency levels across multiple grade levels
-- **IRT Model Fitting**: Uses simulated performance data to estimate item difficulty parameters
-- **Validation with Real Data**: 
-
-
-This repository includes the dataset used in our experiments.
-
+This repository includes the subset of NAEP dataset used in our experiments.
 
 ## Contact
 
-For questions or feedback, please open an issue or contact acquayechristabel@gmail.com.
+For questions or feedback, please contact acquayechristabel@gmail.com.
 
 ## Acknowledgments
 
