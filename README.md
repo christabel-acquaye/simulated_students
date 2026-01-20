@@ -19,4 +19,4 @@ For questions or feedback, please contact acquayechristabel@gmail.com.
 
 ## Acknowledgments
 
-We acknowledge and cite the **[National Assessment of Educational Progress (NAEP)](https://www.nationsreportcard.gov)** for providing the real-world item statistics used for validation in this work.
+We acknowledge and cite the **[U.S. Department of Education. Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), Assessment](https://www.nationsreportcard.gov)** for providing the real-world item statistics used for validation in this work. This study uses released items from the National Assessment of Educational Progress (NAEP). Item text, scoring rubrics, and performance data were identified via the **[NAEP Questions Tool](https://nces.ed.gov/nationsreportcard/nqt/)**. All analyses presented here are the responsibility of the authors and do not necessarily reflect the views of the NCES or the U.S. Department of Education.
