@@ -1,0 +1,632 @@
+itemTableID,questionID,description,Image URL
+90151,2024-4M4 #1,Determine an appropriate measurement of an object,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6FE6DE61-F289-45FD-81D6-34D6289B3C36
+90153,2024-4M4 #3,Solve a problem using unit conversions,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=21F80A8B-EA82-4C82-8623-32E05445D777
+90160,2024-4M6 #5,Apply properties of multiplication,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=887D47EC-C694-4BC9-AF41-012352AFE0A0
+90162,2024-4M6 #7,Find value of an unknown in a number sentence,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=98715379-9B9E-484C-88DC-FA35C0ADABB8
+90164,2024-4M7 #2,Identify appropriate unit of measurement,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3062F30F-A29D-4672-B4BC-6D606A360305
+90165,2024-4M7 #3,Compose 4-digit number using place value,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4F976233-79EB-4F65-9937-BFAB9160A977
+90167,2024-4M7 #5,Identify reasonable measurement,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8D352AFC-8FE7-4D92-AA67-86DA9811248E
+90170,2024-4M10 #2,Translate a situation into an algebraic expression,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=D4A7EA7B-8B7C-4713-ACED-B174C7FC8A27
+90171,2024-4M10 #3,Solve a multi-step story problem,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=C091E2E3-FE82-4C17-82D8-3F723D532BBD
+90173,2024-4M10 #5,Identify odd numbers,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=5792A651-D542-429B-BCBE-DDBF4E7F69BB
+90177,2024-4M13 #4,Determine the value of a digit in a whole number,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3AE25CD5-1413-4F6A-9E93-FACD6643A655
+90178,2024-4M13 #5,Read data from tally tables,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9C62705D-9A1B-48AE-9142-58D93BB2D9D9
+90187,2024-8M1 #5,Select appropriate unit of measurement for a situation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4B3A73B5-6595-41FE-8CE3-EAF055E18B90
+90188,2024-8M1 #7,Read data from a line graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=D7B03ECB-ECBA-4DB9-8DC8-12B57DC5C207
+90192,2024-8M4 #3,Identify a geometric solid given the number of faces,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=DCAA5293-D77F-4C38-A131-7D910630B0E9
+90197,2024-8M5 #3,Solve a problem using similarity and proportional reasoning,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=C3451E41-9D57-40EF-980A-3EC0CF3005DF
+90198,2024-8M5 #4,Compute a missing value in a data set from the mean,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2FBCAB2B-A47E-42FE-9408-C89A9921AB59
+90200,2024-8M5 #7,Identify greatest number in scientific notation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=B40F5F10-C9BA-44A6-A44A-65758605B34E
+90201,2024-8M5 #9,Interpret a theoretical probability,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=43FC3E2A-2ABD-4CA2-9D9A-8D0E53754EE4
+90203,2024-8M7 #2,Convert from kilometers to miles,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=BE67C98E-DA9A-4CD3-871F-34F4DE65B661
+90207,2024-8M7 #6,Use proportional reasoning to find height,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=C63F4530-6B9C-4E5B-B128-3BDE186BE7F2
+90209,2024-8M14 #2,Determine which equation matches the given description,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=7EF43D82-76D7-4EAB-9AAB-096CFA539F2E
+90213,2024-8M14 #6,Use similarity to find the length of a side of a triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=C2E35BAB-B2A4-46BC-82E5-385F79C517E8
+90214,2024-8M14 #7,Identify which number belongs in a sequence,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2E6DA9BD-8078-4331-BED0-0E0C7E7BF239
+45609,2022-4M1 #1,Subtract decimal numbers,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3733E7F1-7E4B-4DA5-8AC5-7C08E78508BC
+45614,2022-4M1 #6,Identify a line of symmetry in a given figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=77001807-4569-4D46-8C68-11B7C58885FC
+45615,2022-4M1 #7,Determine a unit of measurement for a given scenario,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=DAFEDF6C-DF7D-4E08-BD8B-A528AEDB9E7F
+45623,2022-4M1 #15,Select appropriate unit of measurement,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1F58AF9E-3727-4E70-A963-EC3BB883B35D
+45629,2022-4M1 #21,Model a relationship using a number sentence,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1F5791EA-0051-420A-9683-02CCECBC1615
+45633,2022-4M1 #25,Find total in a representation of money,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=110477CC-DFEA-4E0D-9ACE-223F27FED89A
+45649,2022-8M1 #11,Determine which statistic a new data point does not affect,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=74DE2ED0-1799-4E90-8BC1-7F7085C6F210
+45659,2022-8M1 #21,Determine a ratio from a story problem,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=DF3C6080-F1E3-4AAC-9FFD-36570588E5DB
+45660,2022-8M1 #22,Subtract integers,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=B705B5DF-1D60-47BE-93DA-4426B1C190E3
+45668,2022-8M1 #30,Identify an equation that models a given context,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1C9E0AB0-0C73-4289-8D90-2EB5FE778494
+25189,2017-4M1 #5,Identifies a number pattern that follows a given rule,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6BEB19A3-F7AF-408F-92DA-B6719EA00E96
+25198,2017-4M9 #1,Select an appropriate measurement tool for a given attribute (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=656C0CE7-906A-4347-9159-DF3FBE4AB785
+25199,2017-4M9 #2, Identify the place value of a digit in a whole number (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=35788D04-B5E4-4921-AE1C-1451AE019FAB
+25202,2017-4M9 #5,Solve a multi-step problem in context (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=DBA4C7E7-2C8D-4F83-B590-B0F00C956A0B
+25203,2017-4M9 #6,Calculate the perimeter of a garden (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=B56A4B53-C742-4560-8B12-8EF6FA8020FF
+25205,2017-4M9 #8,Identify the faces of a given solid (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9F13CE55-FE26-4086-A98F-415767D80F56
+25206,2017-4M9 #9,Estimate the weight of an object (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=693F23E0-9960-4FE5-A753-D485C3CC7841
+25207,2017-4M9 #10,Recognize a proportional relationship (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ABEF8007-DABA-41C0-8EE9-9E906F60C65E
+25208,2017-4M9 #11,Recognize the attribute that changes from rearranging shapes (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=48FEE566-DF19-46EA-B95B-850610A74534
+25210,2017-4M9 #13,Identify a rule for generating numbers in a pattern (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=BE493941-109A-45F9-96C3-BCF24EC30A28
+25214,2017-8M3 #1,Translate a percent to a fraction in context,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=E64BA01F-3794-43F9-8255-6E9477F00286
+25221,2017-8M3 #8,Identify a verbal description of a rotation of a figure in the xy-plane,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=E61C92C9-C5D1-4852-9AB8-9E31C5351F7E
+25229,2017-8M9 #1,Select appropriate unit for measuring a particular attribute (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ED0F14B0-E8F5-40B1-9FC9-13F5C7984A96
+25230,2017-8M9 #2,Use similarity to compute perimeter of a triangle (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2314C01D-AA20-4F7D-9E70-256CFFA22ECD
+25231,2017-8M9 #3,Calculate the price of an item after a percent discount (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1644CCC2-CB8D-49D6-ACAF-A6B07A33F532
+25233,2017-8M9 #5,Compare the means of two sets of data (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=D2286287-282A-4FC7-BB73-97F7350AC01D
+25236,2017-8M9 #8,Calculate the volume of a cylinder (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4ED14477-45FE-4878-8A34-EBA57DABF5B0
+25238,2017-8M9 #10,Use proportional reasoning to solve a problem in context (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=181A5F28-FE05-4B0D-BCDF-8E825D66A160
+25239,2017-8M9 #11,Interpret the meaning of a linear equation in a context (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=F2E31A0D-1EBE-4E7E-94D1-B1A2089C2E66
+25242,2017-8M9 #14,Use theoretical probability to predict an outcome (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=D7B5A182-E7A9-4EF1-84FA-42D84CFBFDDE
+11643,2013-4M6 #13,Read temperature on thermometer,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d0d48e06-53fa-4390-9758-d6ca3221507d
+11646,2013-4M6 #16,Determine specific term in a fraction pattern,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=31a72bd6-298e-4127-8037-dbd540cbb698
+11616,2013-4M7 #1,Select unit for specific attribute,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c87a3118-bfd2-45af-a38c-a24545abca43
+11617,2013-4M7 #2,Determine outcome with greatest probability using picture,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8f99ce0f-679c-47b6-9ba1-b5487feb34eb
+11619,2013-4M7 #4,Divide 5-digit number by 2-digit number,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=302c4de0-00e4-4adf-b015-e5af67b30fe6
+11621,2013-4M7 #6,Compare properties of simple figures,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a041c039-9271-4f4d-9cfc-c56ce42382e4
+11624,2013-4M7 #9,Compute with data from graph to solve problem,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ba59d98d-235c-4812-a0fa-8dde9ffdcbc6
+11625,2013-4M7 #10,Construct and identify shape on coordinate grid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1b7a869f-a2d5-4832-be11-0c321fc4bcc1
+11627,2013-4M7 #12,Use ratio to describe situation in context,
+11629,2013-4M7 #14,Determine which rectangular floor has greatest area,
+11570,2013-8M3 #4,Find angle with specified degree measure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3086e035-3c74-4259-91f5-3418c3268872
+11571,2013-8M3 #5,Solve a story problem using ratios,
+11572,2013-8M3 #6,Find coordinate of point using midpoint,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6af15fd3-72eb-43b9-bf99-43b07271e151
+11573,2013-8M3 #7,Use average (mean) to solve a problem,
+11574,2013-8M3 #8,Identify graph representing a situation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8401b710-4f2b-4a32-880e-a0d0cb392454
+11575,2013-8M3 #9,Interpret slope from verbal description,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a4de8ce2-6e7d-4534-b544-ecbba9d3e9a1
+11576,2013-8M3 #10,Identify effect of outlier on statistics,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e67863a3-1c4c-4765-b5fe-8d3db743d88e
+11580,2013-8M3 #14,Use algebraic model to estimate height,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4fec746f-dadb-45a6-8cf5-4f5b513d4232
+11552,2013-8M6 #2,Identify algebraic expression modeling a scenario,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9edffb66-c82f-4964-bdc2-3401b39d0fa1
+11555,2013-8M6 #5,"Determine area of figure, given side length and perimeter",
+11556,2013-8M6 #6,Identify collinear points,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e448f4bd-696f-4c67-80de-42b4029867d3
+11557,2013-8M6 #7,Determine shapes with equal perimeters,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1931164e-c461-48c6-8337-bb4dd436bb3a
+11558,2013-8M6 #8,Approximate value on a number line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=850799ce-bc59-4f83-8e53-be9619e86599
+11559,2013-8M6 #9,Identify properties of an isosceles triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b084114d-e3da-4658-9120-883ba586535c
+11561,2013-8M6 #11,Determine the result of a rotation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f09663d1-4476-48ef-bd25-16d3b840d193
+11562,2013-8M6 #12,Find the equation of a line from table of values,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4eb7b891-a508-4e80-aee8-4aeffe245652
+11564,2013-8M6 #14,Determine coordinates to complete a trapezoid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2b379672-6754-4227-8785-0df72ca6f0df
+11565,2013-8M6 #15,Solve a multi-step problem involving fractions,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=169cd208-5295-4957-bcb1-3d2ba8a85816
+11535,2013-8M7 #1,Select appropriate unit given attribute,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a4ab3655-38ad-4e3b-8ea4-efc8f9bc4b65
+11536,2013-8M7 #2,Find greatest number that can be bought,
+11537,2013-8M7 #3,Find probability of event,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=41d2de39-5fde-4f20-9135-b557566795a0
+11539,2013-8M7 #5,Solve a problem involving rates,
+11540,2013-8M7 #6,Choose statement corresponding to expression,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=03fce096-feeb-43de-a1d9-74566124a3ea
+11542,2013-8M7 #8,Determine percent tip on a bill,
+11544,2013-8M7 #10,Solve an algebraic inequality,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=95ef0545-0442-44eb-9e0e-43c97aed36a3
+11545,2013-8M7 #11,Identify properties of a line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=be676423-3e0e-4257-b7cf-327bdaed8062
+11547,2013-8M7 #13,"Given a ratio, solve a problem",
+11549,2013-8M7 #15,Analyze intersection of two shapes,
+11749,2013-12M99 #8,Evaluate function at point,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=545b086c-520f-469c-bcef-9e090688785d
+11750,2013-12M99 #9,Evaluate expression with fractional exponent,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=aa774eb7-7b0d-483a-91ea-c045e26d8b2c
+10810,2011-4M8 #1,Compute value using multiplication and division (calculator available),
+10811,2011-4M8 #2,Identify a figure that is not symmetric (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=431c87f7-1566-4f4d-b167-bf1e6947b998
+10812,2011-4M8 #3,Identify appropriate unit for measuring length (calculator available),
+10813,2011-4M8 #4,Solve a story problem involving division (calculator available),
+10815,2011-4M8 #6,Identify the most likely outcome from a given spinner (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2e8c4b55-b04d-4faf-a4b2-598d749fec0d
+10816,2011-4M8 #7,Solve a story problem involving multiplication (calculator available),
+10817,2011-4M8 #8,Determine the sum of numbers represented on a number line (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e1ff90fc-91d2-49dd-84a2-13c95cacd0d1
+10823,2011-4M8 #14,Identify the growth relationship from a table (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ce647670-669f-4eb0-8028-32732450b1ef
+10825,2011-4M8 #16,Identify best unit for measuring a liquid quantity (calculator available),
+10827,2011-4M8 #18,Solve a story problem involving quarts and gallons (calculator available),
+10851,2011-4M9 #5,Add 5-digit number and 6-digit number,
+10852,2011-4M9 #6,Perform computations with data from table,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=55d5db59-63fa-440c-aa52-c884842605a6
+10853,2011-4M9 #7,Find area of a square given perimeter,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b22d29e7-9e8c-4769-a750-465de9f87816
+10854,2011-4M9 #8,Compute the difference of two 4-digit numbers,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f1b1ba90-b888-4be1-aa3e-e1d1567cc85f
+10857,2011-4M9 #11,Estimate area of figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e6519ae2-a16c-457a-bc0a-3cdfbc513541
+10794,2011-4M12 #1,Identify the appropriate measuring device for a given attribute,
+10795,2011-4M12 #2,Use estimation to compare quantities,
+10796,2011-4M12 #3,Determine numerical value of an unknown quantity in a whole number sentence,
+10798,2011-4M12 #5,Determine likelihood of an outcome,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=29844c31-962d-4901-8b99-9a9efd108595
+10799,2011-4M12 #6,Multiply two 2-digit whole numbers,
+10801,2011-4M12 #8,Find areas of a scale drawing on a grid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=708a7131-0dac-442c-89d9-9a06ced67dd7
+10803,2011-4M12 #10,Identify factors of a number,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8760d497-e869-423c-961c-18a2ded2f021
+10806,2011-4M12 #13,Solve story problem involving remainders,
+10807,2011-4M12 #14,Use pattern to find number of edges,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4b0afc72-1f4c-4123-9445-9535610806d3
+10808,2011-4M12 #15,Identify expression that models scenario,
+10132,2011-8M8 #1,Translate from words to numbers (calculator available),
+10133,2011-8M8 #2,Reflect a figure over a line (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3533b8e6-0a2a-44ab-ba7c-b6c76fdd922e
+10134,2011-8M8 #3,Identify equation modeling a scenario (calculator available),
+10135,2011-8M8 #4,Make an inference given a probability (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=0afe2857-88fe-4528-ae7c-c17a18b4e6a4
+10136,2011-8M8 #5,Identify a non-equivalent equation (calculator available),
+10139,2011-8M8 #8,Identify expression that represents odd integer (calculator available),
+10141,2011-8M8 #10,Convert dollars to yen (calculator available),
+10143,2011-8M8 #12,Evaluate equation for a given value in context (calculator available),
+10145,2011-8M8 #14,Compare similar parallelograms (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=691aa4b3-2bd3-48df-8e77-850c36199834
+10148,2011-8M9 #2,Determine how three lines are related (calculator available),
+10149,2011-8M9 #3,Identify a graph that shows how speed changed (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=afb3ccaa-dd30-4d92-9927-96eeb9b64e1f
+10150,2011-8M9 #4,Find wages earned (calculator available),
+10152,2011-8M9 #6,Find how many 3-digit numbers can be written (calculator available),
+10153,2011-8M9 #7,Identify net that folds into box (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6b0f1473-0f3f-4c0a-86bc-f84780c91134
+10155,2011-8M9 #9,Find area of irregular-shaped region on a grid (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f7b0bd01-aef5-4fab-9e28-9fefb96652ef
+10156,2011-8M9 #10,Identify equation modeling perimeter (calculator available),
+10158,2011-8M9 #12,Determine radius of a circle inscribed in a square (calculator available),
+10831,2011-8M12 #2,Recognize a unit of volume,
+10832,2011-8M12 #3,Recognize a counterexample about prime numbers,
+10834,2011-8M12 #5,Determine equation to model a situation,
+10836,2011-8M12 #7,Determine equation of a line given a point and the slope,
+10837,2011-8M12 #8,Determine coordinates after reflection,
+10840,2011-8M12 #11,Convert between units of measurement,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b1241c51-7450-456d-9ddd-3ef7a3eb5ea5
+10841,2011-8M12 #12,Find solution to equation,
+10843,2011-8M12 #14,Determine number of edges in 3-D figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4ce5eb6a-6f74-47c5-a14e-dde6d010e49a
+10844,2011-8M12 #15,Interpret a linear equation in context,
+10845,2011-8M12 #16,Use experimental results to make prediction,
+10846,2011-8M12 #17,Recognize effect of sign on operations,
+6889,2009-4M5 #1,Determine how many given pieces cover a shape,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b197c4a2-3d92-4f40-a9e7-a4330096141c
+6890,2009-4M5 #2,Recognize type of transformation from picture,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b197c4a2-3d92-4f40-a9e7-a4330096141c
+6893,2009-4M5 #5,Identify given piece with angle greater than 90 degrees,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b197c4a2-3d92-4f40-a9e7-a4330096141c
+6897,2009-4M5 #9,Use estimation to find a difference,
+6898,2009-4M5 #10,Determine the probability of a particular outcome,
+6901,2009-4M5 #13,Solve arithmetic problem involving time,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=01a451e9-2396-47e8-894e-d1798d0e938e
+7342,2009-4M10 #1,Subtract two-digit number from three-digit number,
+7343,2009-4M10 #2,Find value of unknown in number sentences,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=af74b174-f9ba-4641-8d00-a4e2750176b2
+7344,2009-4M10 #3,Solve a story problem involving quarts and cups,
+7346,2009-4M10 #5,Determine probability of a particular event,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2e420e77-f81d-46fe-96f9-a3d64b94d1d5
+7347,2009-4M10 #6,Estimate a distance based on time,
+7348,2009-4M10 #7,Identify the value of a point on a number line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f34634be-792b-4185-b7bb-bb0289f25c25
+7349,2009-4M10 #8,Determine missing shapes in a pattern,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b4e9750c-0320-496b-b3f1-442e24840b02
+7350,2009-4M10 #9,Identify figure with greatest area on a grid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2e22c9f9-d81f-4a09-91d2-173ae656a1db
+7353,2009-4M10 #12,Divide a three-digit number by a one-digit number,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=52d642ae-d5ee-4bd6-a43d-b2c84a7a432d
+7355,2009-4M10 #14,Estimate length of object by indirect measurement,
+7356,2009-4M10 #15,Identify fraction closest to given value,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=29b9fc37-39e8-415d-8300-6ce8d53a8567
+7361,2009-8M5 #3,Identify given piece with angle greater than 90 degrees,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=19370466-bf82-43cd-a1f6-6c6f3a613825
+7362,2009-8M5 #4,Identify figures with equivalent areas,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=19370466-bf82-43cd-a1f6-6c6f3a613825
+7363,2009-8M5 #5,Identify steps in a transformation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=19370466-bf82-43cd-a1f6-6c6f3a613825
+7366,2009-8M5 #8,Use estimation to find a difference,
+7367,2009-8M5 #9,Determine the probability of a particular outcome,
+7368,2009-8M5 #10,Identify pictorial representation of equivalent fractions,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d57990e2-12bb-44b6-9a04-5350a14ee4d2
+7370,2009-8M5 #12,Solve arithmetic problem involving time,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9a44e78e-9507-4985-b3db-ca43a0d573e8
+7373,2009-8M5 #15,Find length of hypotenuse,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3dae05dd-e8fa-461b-bce9-598b4562fd05
+7374,2009-8M5 #16,Identify operation resulting in odd integer,
+6904,2009-8M10 #1,Identify equation equivalent to given equation,
+6905,2009-8M10 #2,"Determine possible dimensions of rectangle, given area",
+6906,2009-8M10 #3,Identify side with same length in congruent figures,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=07b81a8f-7920-4e84-a2ce-472d7b19ce98
+6907,2009-8M10 #4,Identify number with digit in hundredths place,
+6908,2009-8M10 #5,Determine a quantity based on given percent,
+6909,2009-8M10 #6,Determine area of a right trapezoid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c0dcd792-3d40-4193-b608-e18b2c303b86
+6910,2009-8M10 #7,Identify solution from graph of linear equations,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c5e97c67-2c77-46bd-8905-7e7129700bd0
+6911,2009-8M10 #8,Represent length of rectangle in terms of width,
+6913,2009-8M10 #10,Read and interpret information in a graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=10fb1593-2895-4303-890a-a272137d9ac9
+6914,2009-8M10 #11,Identify which statistic is represented by response,
+6915,2009-8M10 #12,Determine degree measure formed by clock hands,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8f050812-825e-4188-a728-9c61a9570a3d
+6917,2009-8M10 #14,Identify collinear point in coordinate plane,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d4bd6539-3150-409c-87a3-ea3782655965
+6918,2009-8M10 #15,Identify piece used to form figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e76a6a6e-42b3-41ee-b5b3-faf314ef2c82
+10118,2009-12M2 #1,Multiply a 3-digit number by a decimal number,
+10119,2009-12M2 #2,Find length of side in a 30-60-90 triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c4c36d42-8ffa-4eb1-84a1-6669b3a60295
+10120,2009-12M2 #3,Identify linear equation that best fits data in a scatterplot,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9ec33e5f-2bff-4b0a-a1c6-f81e7a0df053
+10122,2009-12M2 #5,Determine a nonequivalent expression,
+10123,2009-12M2 #6,Compare units of volumes,
+10125,2009-12M2 #8,Identify appropriate method for selecting random sample,
+10127,2009-12M2 #10,Find range for area given precision of linear measurements,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=61b3abe9-a3ad-417a-941a-1e830a7d5db6
+10128,2009-12M2 #11,Subtract rational expressions,
+10130,2009-12M2 #13,Identify trigonometric function with specified properties,
+9822,2009-12M7 #1,Solve problem using data in table (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=97631534-4323-43ae-9f3c-df964a4f7116
+9823,2009-12M7 #2,Solve problem involving area in context (calculator available),
+9826,2009-12M7 #5,Estimate amount of time for problem in context (calculator available),
+9827,2009-12M7 #6,Identify algebraic expression that models a scenario (calculator available),
+9829,2009-12M7 #8,Solve problem involving numerical sequence (calculator available),
+9830,2009-12M7 #9,Analyze correlations of two data sets in a scatterplot (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=68bdc55d-ee47-4334-8b22-28ed3a663b1a
+9832,2009-12M7 #11,Use trigonometry to find height of object,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b0ae9fd6-086a-4483-831a-1948d6b3d6b1
+6957,2007-4M7 #1,Locate an object in a picture (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4568ce13-0e74-4549-9701-2223a1cc1ce7
+6958,2007-4M7 #2,Solve a story problem involving subtraction (calculator available),
+6960,2007-4M7 #4,Identify number sentence that models balanced scale (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a08db888-471d-42ae-8d87-31563ab5cda9
+6961,2007-4M7 #5,Convert a quantity of pints to quarts (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f2b60e8a-619d-4b9b-a645-908be6909da6
+6963,2007-4M7 #7,Identify picture representing greatest probability (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ca40688c-be34-4d89-ba4f-e0503eefc444
+6964,2007-4M7 #8,Solve problem involving time (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=029d4587-c280-4627-8afa-dcc6a6c3008a
+6966,2007-4M7 #10,Identify 3-D shape resulting from folding paper (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d151e455-6455-4326-8041-77c443c143de
+6968,2007-4M7 #12,Relate input to output from a table of values (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4a5dff30-420d-4f4a-b088-c22fbbd33044
+6970,2007-4M7 #14,Solve story problem involving multiple operations (calculator available),
+6971,2007-4M7 #15,Interpret calculator output in a context (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=01dca02e-22ff-4552-90c2-9f2121e9657c
+6973,2007-4M9 #1,Recognize a reasonable measurement for an object,
+6974,2007-4M9 #2,Find a sum based on place value,
+6976,2007-4M9 #4,Identify fraction modeled by picture,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=502b29e1-5bb6-4fe6-9c3a-afe5833e6202
+6977,2007-4M9 #5,Identify expression that represents a scenario,
+6979,2007-4M9 #7,Read a speedometer to solve a problem,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=97ad05da-916a-47a8-ad8d-088c6bc3b37e
+6980,2007-4M9 #8,Solve a story problem involving money,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6157f09c-7c05-46d8-9866-be1ddcc674f2
+6982,2007-4M9 #10,Determine probability of a specific outcome,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f911483b-bb24-49ae-a77c-27a34588259c
+6984,2007-4M9 #12,Identify best unit for measuring an object,
+6989,2007-4M9 #17,Find missing figure in a pattern of shapes,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4ad76edd-6f44-44e4-8e7c-f0c1306d4050
+6991,2007-4M9 #19,Find area of square with inscribed triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=59aeafc2-78a0-4189-9370-4f2521d9af45
+6939,2007-4M11 #1,Determine attribute being measured from picture,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=edb3ecb1-15e6-4389-a996-85ada6d1b838
+6940,2007-4M11 #2,Identify place value representation of a number,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6af45288-1000-4a9e-9f69-f3a11ce21c88
+6941,2007-4M11 #3,Identify number that would be in a pattern,
+6943,2007-4M11 #5,Use place value to determine amount of increase,
+6944,2007-4M11 #6,Read information from a pictograph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a80e6a3f-c2c5-4b5a-81bb-2234f8ecd47e
+6945,2007-4M11 #7,Find sum of numbers represented by base ten model,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b01197ad-abf6-45b7-94f3-c980b28c3fcb
+6947,2007-4M11 #9,Determine problem easiest to solve by mental math,
+6948,2007-4M11 #10,Find figure with same perimeter as given figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=67036768-904f-4e47-9080-ab289f599dc5
+6949,2007-4M11 #11,Solve story problem involving addition and subtraction,
+6950,2007-4M11 #12,Find number of right angles in a picture,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b708c3b7-0478-451b-a2a9-98ac540daa62
+6951,2007-4M11 #13,Use place value to recognize a number,
+6953,2007-4M11 #15,Find total quantity based on place value,
+6955,2007-4M11 #17,Order four-digit numbers from smallest to largest,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=146be078-9ed6-459d-a564-dad171158006
+6956,2007-4M11 #18,Determine number of blocks used to build a figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d74de7ee-896c-42cf-8f67-d011b75d67c1
+7012,2007-8M7 #1,Evaluate an expression for a specific value (calculator available) ,
+7013,2007-8M7 #2,Determine most appropriate graph for a situation (calculator available),
+7014,2007-8M7 #3,Find total charges given operating costs (calculator available),
+7015,2007-8M7 #4,Determine measure of angle in triangle (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=06e0bf08-ab3f-442b-b116-efd753867611
+7016,2007-8M7 #5,Identify number line representing given situation (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b49160d3-86ee-4228-b5ba-519464efba72
+7017,2007-8M7 #6,Recognize shape formed by overlapping figures (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4e538b2f-1a0c-4c84-8088-79c8c54e4068
+7019,2007-8M7 #8,Solve a story problem involving costs and profit (calculator available),
+7020,2007-8M7 #9,Use formula to solve a problem (calculator available),
+7021,2007-8M7 #10,Solve story problem involving milliliters and liters (calculator available) ,
+7023,2007-8M7 #12,Estimate side length of a square given area (calculator available),
+10290,2007-8M9 #1,Divide to find greatest whole quantity (calculator available),
+10293,2007-8M9 #4,Solve an algebraic equation (calculator available),
+10294,2007-8M9 #5,Recognize unit associated with specific attribute (calculator available),
+10295,2007-8M9 #6,Divide large numbers in a given context (calculator available),
+10296,2007-8M9 #7,Convert raw points to a percentage (calculator available),
+10301,2007-8M9 #12,Identify fractions listed in ascending order (calculator available),
+10303,2007-8M9 #14,Convert temperature from Fahrenheit to Celsius (calculator available),
+10305,2007-8M9 #16,Find angle measure of minor arc of a circle (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=67c141c1-407d-4870-ab65-be077720a2b3
+10306,2007-8M9 #17,Identify shape formed after folding paper (calculator available),
+6993,2007-8M11 #1,Identify number rounded to nearest hundred,
+6994,2007-8M11 #2,Identify point on a graph with specified coordinates,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=314b9a05-7eb2-45c0-8f32-b7d1cc13b6a1
+6995,2007-8M11 #3,Determine fraction of figure shaded,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=65916eee-247f-4e77-b424-678e7fcb1d32
+6996,2007-8M11 #4,Identify type of triangle from picture,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=bb1fc563-c6ce-4658-a5fb-63ed711fbf6f
+6997,2007-8M11 #5,Use place value to write a number,
+6998,2007-8M11 #6,Determine an expression to model a scenario,
+7001,2007-8M11 #9,Estimate time given rate and distance,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a0ff9b96-7dd0-41b0-a803-566a9f572963
+7002,2007-8M11 #10,Find total cost based on unit price for a quantity,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8fe98bd6-83eb-41a1-9b54-c4f2a888652d
+7003,2007-8M11 #11,Identify the graph of a linear equation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=61309dad-d885-4abc-8ddf-290af53c3e82
+7004,2007-8M11 #12,Determine dimensions that give greatest volume,
+7006,2007-8M11 #14,Determine an expected outcome,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=729dfaa8-5a67-441e-916c-da379912e343
+7007,2007-8M11 #15,Use algebra to solve a story problem,
+7008,2007-8M11 #16,Find number of combinations satisfying a condition,
+7009,2007-8M11 #17,Approximate the length of the radius of a circle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a022cbba-d103-4056-822e-634e4cec9a06
+7011,2007-8M11 #19,Determine distance given rate and time,
+6798,2005-4M4 #3,Identify the missing figure in a pattern ,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c1099f97-b166-451a-a4e4-987caaf5fa30
+6801,2005-4M4 #6,Determine area of shaded region on grid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=af0ccced-9e25-4671-95ba-5f5934016eea
+6804,2005-4M4 #9,Identify numbers rounded to whole numbers,
+7324,2005-4M12 #1,Identify a number given in expanded notation,
+7325,2005-4M12 #2,Subtract fractions with common denominators,
+7326,2005-4M12 #3,Solve a multi-step division problem,
+7327,2005-4M12 #4,Subtract two-digit numbers to solve a story problem,
+7328,2005-4M12 #5,Determine which attribute could be measured with a meter stick,
+7330,2005-4M12 #7,Approximate fraction of an hour given minutes,
+7331,2005-4M12 #8,Determine number of pieces from cutting wholes into fifths,
+7333,2005-4M12 #10,Determine the most likely outcome in a story problem,
+7334,2005-4M12 #11,Identify the appropriate title for a graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3ab362a5-0ddd-4189-af25-51fc32e0cb1f
+7335,2005-4M12 #12,Represent a situation with an algebraic expression,
+7337,2005-4M12 #14,Identify equation to describe pattern given in table,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=84ad2e9c-1926-43f9-85e7-8398c1f8fe48
+7338,2005-4M12 #15,Identify number sentence matching a situation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=0551d50c-ec05-4d02-a583-683f5f5376b3
+7339,2005-4M12 #16,Determine amount of change from a purchase,
+6832,2005-8M3 #5,Reason to order quantities,
+6834,2005-8M3 #7,Determine how many colors are needed to paint a cube,
+6835,2005-8M3 #8,Identify piece of information not needed,
+6837,2005-8M3 #10,Determine effect of increasing the value of one variable,
+6838,2005-8M3 #11,Estimate the x-coordinate from the graph of a curve,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=49b80243-3345-46ec-8973-4acd4927a641
+6839,2005-8M3 #12,Extend a pattern involving perfect squares,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a39a496e-c229-4ed7-9ac2-3b998d5d60e9
+6840,2005-8M3 #13,Determine coordinates to complete a rectangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4562ee5b-4e3f-4aae-9770-bf1ea1ef752e
+6841,2005-8M3 #14,Use properties of quadrilaterals to solve a problem,
+6843,2005-8M3 #16,Recognize expanded form of number,
+6844,2005-8M3 #17,Solve a story problem involving percent increase,
+6853,2005-8M4 #3,Identify the missing figure in a pattern,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=011db762-25e2-477a-8353-cff94dc842cf
+6856,2005-8M4 #6,Determine area of shaded region on grid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2a067fec-64a1-49bf-8839-731b9a258134
+6859,2005-8M4 #9,Identify numbers rounded to whole numbers,
+6869,2005-8M4 #19,"Given probability, determine faces of a cube labeled R",
+6810,2005-8M12 #1,Convert a written number to decimal form,
+6811,2005-8M12 #2,Find length of a rectangle given perimeter and width,
+6812,2005-8M12 #3,Identify an equivalent algebraic expression,
+6814,2005-8M12 #5,Calculate temperature increase on a thermometer,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=90808d09-4cf0-44ea-b069-d1d6991b95af
+6815,2005-8M12 #6,Determine median price for a gallon of gasoline,
+6818,2005-8M12 #9,Calculate midpoint of a line segment,
+6819,2005-8M12 #10,Identify the graph of whole numbers less than 5,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=5b171810-db80-4a59-91c9-81fd911bb6d8
+6820,2005-8M12 #11,Find the percent of a tip on a restaurant bill,
+6821,2005-8M12 #12,Identify a point on a number line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a96dff6b-4323-4fd2-988f-47ebdb39299e
+6822,2005-8M12 #13,Determine the 6th term in a pattern,
+6824,2005-8M12 #15,Find the measure of an acute angle,
+6826,2005-8M12 #17,Determine an equation given a table of x and y values,
+6738,2005-12M3 #5,Identify graph representing data given in a table,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=846fd4d1-a663-4f7c-a801-b3344c13c983
+6739,2005-12M3 #6,Calculate the measure of an angle in a triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=32fc8b75-2601-45e3-994b-37f34fccc134
+6740,2005-12M3 #7,Determine which spinner would likely produce given results,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f1fb73e1-10df-4372-9ad0-29db4857ddac
+6741,2005-12M3 #8,"Find the cost of mailing a letter, based on its weight",
+6743,2005-12M3 #10,Find the length of the sides of a square,
+6745,2005-12M3 #12,Determine the x-coordinate where 2 lines intersect,
+6746,2005-12M3 #13,Calculate a weighted average for two groups,
+6756,2005-12M4 #1,Find the missing dimension of a room,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ae68fc50-2e0e-484c-8dca-ab78c418c497
+6758,2005-12M4 #3,"Given the scale, determine the length of a side",https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ae68fc50-2e0e-484c-8dca-ab78c418c497
+6759,2005-12M4 #4,"Calculate an expected value, given a percentage",
+6764,2005-12M4 #9,Identify effect of changing certain digits on a number’s value,
+6766,2005-12M4 #11,Find x in the solution of a system of linear equations,
+6768,2005-12M4 #13,Determine which triangle is not a 30-60-90 right triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a785a947-0f29-4d0f-915d-f0f5bb226ce7
+6769,2005-12M4 #14,Determine the remainder in an algebraic setting,
+6771,2005-12M4 #16,Solve a quadratic inequality,
+6772,2005-12M4 #17,Determine the x-coordinate of a point on a sine curve,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=24db12e5-1e97-4d60-8304-a05e3ea5acdc
+7306,2005-12M12 #1,Identify similar geometric figures (calculator available),
+7307,2005-12M12 #2,Determine conditional probability from two-way table (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=44bc8bc3-c23c-4965-8dc4-1db3271a9887
+7309,2005-12M12 #4,Find the measure of angle between streets (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=67fe5e95-6801-4235-b497-2b8291c2974a
+7310,2005-12M12 #5,Find fourth term in numerical sequence (calculator available),
+7311,2005-12M12 #6,Identify algebraic expressions to represent a situation (calculator available),
+7313,2005-12M12 #8,Find actual dimensions of room drawn to scale (calculator available),
+7314,2005-12M12 #9,Calculate a probability of independent events (calculator available),
+7315,2005-12M12 #10,Determine the type of graph to best represent a situation (calculator available),
+7318,2005-12M12 #13,"Estimate property value, given tax rate and amount (calculator available)",
+7319,2005-12M12 #14,Determine the initial number of bacteria in a sample (calculator available),
+7320,2005-12M12 #15,Solve a problem using trigonometry (calculator available),
+7321,2005-12M12 #16,Solve a problem involving a normal distribution (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=21288ae5-8694-4409-942d-e43c904dcc5c
+7322,2005-12M12 #17,Determine the increase in ticket prices from a cost model (calculator available),
+7064,2003-4M6 #1,Add two 3-digit numbers,
+7067,2003-4M6 #4,Identify which of four objects is heaviest,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d33ab700-219f-405a-8020-08cc705b8f6c
+7070,2003-4M6 #7,Reason using properties of a rectangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a7e79cd2-8071-4ff4-91c2-11ea1bd8a0a5
+7072,2003-4M6 #9,Identify solution method that uses multiplication,
+7073,2003-4M6 #10,"Determine the length of a side of a square, given the perimeter",
+7074,2003-4M6 #11,"Given a context, identify a multiple of 6",
+7075,2003-4M6 #12,Solve a multistep word problem,
+7076,2003-4M6 #13,Use algebraic reasoning  to determine a relationship,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=7dd9ed61-06c8-4f36-9fb6-54bff7a2bc39
+7077,2003-4M6 #14,Identify the figure that could not be folded to form a cube,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8ba15089-9c82-4ecb-b2d3-e813e4667208
+7078,2003-4M6 #15,Solve a multi-step money word problem,
+7080,2003-4M6 #17,Solve a story problem involving fractions,
+7082,2003-4M6 #19,Use a scale to find a distance between two points,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f2b77766-cd9f-43b8-b76b-b92c9d112539
+7083,2003-4M6 #20,Solve an inequality,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8a9579e8-2eef-4a46-9d66-9a45caa8eac8
+7286,2003-4M7 #1,Divide one 3-digit number by another (calculator available),
+7287,2003-4M7 #2,Identify a reasonable amount of time to walk 2 miles (calculator available),
+7288,2003-4M7 #3,"Find a total, given a table of data (calculator available)",https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a2814f1f-441d-496c-a058-0f641687d7af
+7289,2003-4M7 #4,Identify correct number sentence (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b0d2087c-6e09-496d-b208-2c9e0c5125ec
+7292,2003-4M7 #7,Reason about inequality relationship (calculator available),
+7293,2003-4M7 #8,Solve a problem involving liquid measure (calculator available),
+7294,2003-4M7 #9,Interpret the result shown on a calculator display (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b6ba4959-3691-4e52-a589-490b335ad07e
+7295,2003-4M7 #10,Solve a simple probability problem (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c872be54-4e6f-4740-8a2a-0e6edc668ddb
+7296,2003-4M7 #11,Identify a correct numerical expression to model a word problem (calculator available),
+7297,2003-4M7 #12,Solve a money problem (calculator available),
+7298,2003-4M7 #13,Read a thermometer and solve a problem (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=442a4314-d4e3-4ba9-8ff1-fb58c4a0e052
+7299,2003-4M7 #14,Solve a multi-step money problem (calculator available),
+7301,2003-4M7 #16,Solve a problem involving an algebraic relationship (calculator available),
+7302,2003-4M7 #17,Solve a problem involving time (calculator available),
+7046,2003-4M10 #1,Identify object measured in feet,
+7047,2003-4M10 #2,Identify shape with three angles,
+7048,2003-4M10 #3,Translate large number in words to numeral,
+7049,2003-4M10 #4,Identify instrument to weigh an apple,
+7052,2003-4M10 #7,Solve a multi-step word problem,
+7053,2003-4M10 #8,Evaluate an algebraic expression,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d1d9b442-0206-406e-a88c-12bd95a31a8d
+7056,2003-4M10 #11,Find the product of several numbers when one of them is zero,
+7060,2003-4M10 #15,Estimate solution of a multi-step word problem,
+7061,2003-4M10 #16,Solve simple probability problem,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=515ddb74-f262-401f-bd9f-69acd93cb668
+7126,2003-8M6 #1,Add two 3-digit numbers,
+7127,2003-8M6 #2,Identify picture model of 3/4,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=23ace0af-133a-4d58-b49c-64c7f633a4d2
+7129,2003-8M6 #4,Identify heaviest object,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4f5f2843-9af7-4dfc-8356-bae34b22ef31
+7132,2003-8M6 #7,Solve a multi-step money word problem,
+7134,2003-8M6 #9,Identify solution method that uses multiplication,
+7135,2003-8M6 #10,"Given the perimeter, find the length of a square",
+7136,2003-8M6 #11,"Given a context, identify a multiple of 6",
+7137,2003-8M6 #12,Solve a multistep word problem,
+7138,2003-8M6 #13,Use algebra to determine a relationship,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4fcbcfdf-060e-4b03-9568-31b31ce01d60
+7139,2003-8M6 #14,Identify the net that could not form a cube,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2b09d670-f1bf-458d-9d9c-81f8fe94d743
+7140,2003-8M6 #15,Reason about quadrilaterals,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3315b48a-3956-44a0-9fbe-f05caee8161c
+7142,2003-8M6 #17,Solve a word problem with simple fractions,
+7144,2003-8M6 #19,Use proportional reasoning to find the distance between two towns along a line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c21c40fb-6ad1-48be-8527-f7eac1d28346
+7145,2003-8M6 #20,Solve an inequality,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=60a3f688-6c5b-4dde-86d5-5616e9a55469
+7147,2003-8M6 #22,Identify measurement within tolerance,
+7148,2003-8M6 #23,"Recognize the meaning of ""isosceles""",
+7151,2003-8M6 #26,Apply properties of square on coordinate plane,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=08e0ffc4-dd89-4f01-8aa2-6ebfb02d6dd1
+7153,2003-8M6 #28,Find a median,
+10219,2003-8M7 #1,Identify number of feet in 15 miles (calculator available),
+10220,2003-8M7 #2,Solve a money word problem (calculator available),
+10221,2003-8M7 #3,Find the measure of an angle in a triangle (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=7b057501-2220-4d3b-9ef7-a7b5fba31e4a
+10223,2003-8M7 #5,Relate a numerical expression to area of a rectangle (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f7d6a1fb-8a01-49d2-a9d3-6ad511003b58
+10226,2003-8M7 #8,Identify price increases on a line graph (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2a9e8abc-45cc-4035-af6a-c83fae15da34
+10227,2003-8M7 #9,Solve problem using multiplication and division (calculator available),
+10228,2003-8M7 #10,Identify properties of parallelograms (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=bcbdde23-fe92-4774-9e8b-a0014f762a93
+10229,2003-8M7 #11,Identify a counterexample for a statement about even and odd numbers (calculator available),
+10230,2003-8M7 #12,Determine which term in a pattern of fractions will have a specified decimal value (calculator available),
+10232,2003-8M7 #14,Use pie chart and percent (calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9295c42b-2441-4a5a-b8fc-fbb2f988e482
+10234,2003-8M7 #16,Identify decimal for scientific notation (calculator available),
+10235,2003-8M7 #17,Represent the mean of three distances  algebraically (calculator available),
+10236,2003-8M7 #18,Solve an equation in terms of a variable (calculator available),
+7109,2003-8M10 #3,Identify the value of a variable that satisfies a given condition,
+7110,2003-8M10 #4,Interpret data in a pictogram,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6a26eb6a-4d7d-483e-b037-687c1893eaeb
+7115,2003-8M10 #9,Find angle measure in a triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9e53b2bf-c50c-4aa2-8151-2d4d1259000d
+7116,2003-8M10 #10,Identify equivalent ratio,
+7117,2003-8M10 #11,Identify property of graph of a line,
+7118,2003-8M10 #12,Compute using order of operations,
+7120,2003-8M10 #14,Estimate length of one object using another,
+7123,2003-8M10 #17,Represent even number algebraically,
+7124,2003-8M10 #18,Reason using information about relative position along a line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=63cef765-814f-4011-b722-ecc44f96cc9d
+6554,1996-4M9 #3,Write an Expression Using N,
+6555,1996-4M9 #4,Use Data from a Pictograph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=aa028555-d6f8-47e3-9aed-127ef355dab0
+6557,1996-4M9 #6,Count Cubes in Solid,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8dd03cdd-8052-4dd7-b0bc-4776fd10ba52
+6559,1996-4M9 #8,Relate Perimeter to Side Length,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=94d0682e-f4e0-4046-943b-29e3ae0abcb4
+6560,1996-4M9 #9,Determine a Probability,
+6543,1996-4M12 #1,Use Subtraction in Problem (Calculator available),
+6544,1996-4M12 #2,Identify Multiple of 5 (Calculator available),
+6545,1996-4M12 #3,Identify Solution for Problem (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1310d8ca-4b5a-42c9-904c-c3c8b7976860
+6546,1996-4M12 #4,Read Bar Graph (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9fbcf953-ef09-4550-abca-9b1db47763b5
+6548,1996-4M12 #6,Solve a Division Problem (Calculator available),
+6579,1996-8M3 #1,Round to Thousands Place,
+6580,1996-8M3 #2,Write Fraction That Represents Shaded Region,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=0e635f02-701c-45c6-8527-e4475957d6b5
+6581,1996-8M3 #3,Multiply Two Negative Integers,
+6583,1996-8M3 #5,Find Amount of Restaurant Tip,
+6584,1996-8M3 #6,Identify Representative Sample,
+6585,1996-8M3 #7,Read Dials on a Meter,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=36385d76-18fd-4860-baa9-d01644d52ff7
+6586,1996-8M3 #8,"Find (x,y) Solution of Linear Equation",
+6587,1996-8M3 #9,"Find (x,y) Solution of Linear Equation",
+6570,1996-8M12 #1,Use Division and Subtraction (Calculator available),
+6572,1996-8M12 #3,Recognize Best Unit of Measurement (Calculator available),
+6573,1996-8M12 #4,Apply Numerical Reasoning (Calculator available),
+6576,1996-8M12 #7,Use Conversion Units of Length (Calculator available),
+6512,1996-12M10 #6,Solve Pair of Equations,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8ccb7a28-0618-4a93-bd00-0a7939d74a02
+6514,1996-12M10 #8,Use Trigonometric Identity,
+6515,1996-12M10 #9,Identify Graph of Function,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=350873f5-b8a8-4a25-9728-8e39ddfea93d
+6519,1996-12M12 #3,Recognize Best Unit of Measurement,
+6520,1996-12M12 #4,Apply Numerical Reasoning,
+6523,1996-12M12 #7,Divide Very Large Numbers,
+6527,1996-12M13 #1,Read Temperature vs Time Graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6dd3fe98-737d-4829-be1a-f8cf07f304da
+6529,1996-12M13 #3,Solve a Rate vs Time Problem,
+6531,1996-12M13 #5,Recognize Superfluous Information,
+6409,1992-4M5 #1,Find the Cost of a Necklace ,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=90763438-d46e-4eec-920f-937f0530a791
+6411,1992-4M5 #3,Find the Next Figure in a Pattern,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2258f19f-653a-42fc-82ab-f818f971f0a2
+6413,1992-4M5 #5,Servings of Hamburgers,
+6414,1992-4M5 #6,Total Number of Newspapers Delivered,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=0084354e-aadc-478a-8dd7-ae118aeb9b35
+6416,1992-4M5 #8,Find the Heaviest Object,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=8449dabe-2abc-4da5-b80d-529b688b8338
+6417,1992-4M5 #9,Using Estimation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=62714bea-1aa5-4c3f-8590-2a590cb674b1
+6420,1992-4M5 #12,Find the Difference When Replacing a Digit,
+6421,1992-4M5 #13,Find the Number of Pages Needed in a Photo Album,
+6422,1992-4M5 #14,Flattened Cube,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=92ac767c-97b6-44c6-ba3b-a5085ab36503
+6423,1992-4M5 #15,Find Puppy's Weight at a Certain Age,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e5c1d148-a4d2-4751-be55-cb3a12f142ca
+6424,1992-4M5 #16,Probability of What Color Marble Being Drawn,
+6425,1992-4M5 #17,Find Area of a Carpet,
+6426,1992-4M7 #1,Subtract 3-Digit Whole Numbers,
+6428,1992-4M7 #3,Reason from Bar Graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=91b1484e-7ff2-4de3-9d6e-d5f22b4ba4ec
+6430,1992-4M7 #5,Identify Numeral from Words,
+6431,1992-4M7 #6,Solve Word Problem Using Multiplication,
+6433,1992-4M7 #8,Apply Pattern Recognition,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=31d2c1b0-ffb1-4f5e-ad12-bf28b8e71683
+6376,1992-4M12 #2,Round to Nearest Thousand (Calculator available),
+6377,1992-4M12 #3,Solve Word Problem Using Division (Calculator available),
+6380,1992-4M12 #6,Apply Concept of Parallel Lines (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=d55cae2f-8be8-4934-a865-58f1235e1249
+6382,1992-4M12 #8,Interpret a Table (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=75b6afb9-aa8d-4da2-8ac2-497cb39cb531
+7259,1992-4M14 #2,Find the Perimeter of a Rectangle (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4586d27c-15b7-4266-9816-7ad8fadcda31
+7263,1992-4M14 #6,Select Correct Conclusion Based on Given Info. (Calculator available),
+7264,1992-4M14 #7,Identify Rule Used to Complete Given Table (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=00bafff9-c4f8-473f-9b95-e60a1248ddda
+7266,1992-4M14 #9,Solve a Multistep Word Problem (Calculator available),
+6398,1992-4M15 #1,Estimate Time,
+6400,1992-4M15 #3,Translate Words Into Numbers,
+6401,1992-4M15 #4,Read Scale,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=da955885-9102-4fa3-ab45-3dfedef8ff09
+6402,1992-4M15 #5,Select Reasonable Unit of Measure,
+6403,1992-4M15 #6,Solve a Word Problem,
+6472,1992-8M5 #1,Find the Cost of a Necklace,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=61f3bc31-699b-4f73-8066-62d239459913
+6474,1992-8M5 #3,Find the Next Figure in a Pattern,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=38467087-b365-4cb5-a5a1-2324b77ac6cf
+6476,1992-8M5 #5,Servings of Hamburgers,
+6477,1992-8M5 #6,Total Number of Newspapers Delivered,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a797b02b-7e14-46b5-8447-c08c908e4f31
+6479,1992-8M5 #8,Find the Heaviest Object,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b005e278-fc97-485c-9768-308fe1b73131
+6480,1992-8M5 #9,Using Estimation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=413328f9-41f4-4f50-b106-a3eafd3fea2d
+6483,1992-8M5 #12,Find the Difference When Replacing a Digit,
+6484,1992-8M5 #13,Find the Number of Pages Needed in a Photo Album,
+6486,1992-8M5 #15,Find Puppy's Weight at a Certain Age,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4bc1d214-ee2b-4345-aa9e-4ce884d7f284
+6487,1992-8M5 #16,Probability of What Color Marble Being Drawn,
+6488,1992-8M5 #17,Find Area of a Carpet,
+6489,1992-8M5 #18,How Many Defective Batteries in a Sample of Batteries,
+6492,1992-8M5 #21,Convert Decimal to Fraction,
+6493,1992-8M7 #1,Subtract 3-Digit Whole Numbers,
+6495,1992-8M7 #3,Reason From Bar Graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e9e0123c-c854-4256-a10c-de5484a460ff
+6497,1992-8M7 #5,Identify Numeral From Words,
+6498,1992-8M7 #6,Solve Word Problem Using Multiplication,
+6500,1992-8M7 #8,Apply Pattern Recognition,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=867434b6-b404-4e6d-8713-f1c27c51e8fd
+6436,1992-8M12 #1,Understand Concept of Variable (Calculator available),
+6437,1992-8M12 #2,Extend a Given Pattern (Calculator available),
+6438,1992-8M12 #3,Apply Concept of Minimum (Calculator available),
+6439,1992-8M12 #4,Estimate Using a Circle Graph (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ae38da82-8386-4641-9261-2ea44ceb3c04
+6440,1992-8M12 #5,Find Cost Using Percent (Calculator available),
+6443,1992-8M12 #8,Find Intersection in Rectangle (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=42e39656-b8ab-4ced-8b99-1314f8c55de3
+6445,1992-8M14 #1,Identify the Common Multiple of Two Numbers (Calculator available),
+6448,1992-8M14 #4,Evaluate Expression Using Order of Operations (Calculator available),
+6449,1992-8M14 #5,Find Area Between Circle and Square (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=acdffbd8-3dc5-4c07-a94a-2184854118a2
+6451,1992-8M14 #7,Find Measure of a Bisected Angle (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=5081b4b3-c6f4-4d45-b072-e436f0543e5c
+6452,1992-8M14 #8,Find Area of Rectangular Room (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e70709c4-797d-40f5-8b61-78b04d52804b
+7268,1992-8M15 #1,Estimate Time,
+7270,1992-8M15 #3,Translate Words into Numbers,
+7271,1992-8M15 #4,Read Scale,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=34a74d55-d799-4c04-9bf7-a589cab923a7
+7272,1992-8M15 #5,Select Reasonable Unit of Measure,
+7273,1992-8M15 #6,Solve a Word Problem,
+7277,1992-8M15 #10,Understand Place Value,
+7278,1992-8M15 #11,Reason to Find Area of Square,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=7f3b462e-38b4-4c77-98a6-daa60d932676
+7280,1992-8M15 #13,Complete Pattern in a Table,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=17c4529e-35ee-4c87-b543-914143bc7fa6
+7281,1992-8M15 #14,Find Perimeter of Polygon,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=1208bc7a-abe3-4377-af68-ca1d21f07f95
+7282,1992-8M15 #15,Formulate Logical Conclusion,
+7283,1992-8M15 #16,Show Understanding of Circle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=06d3249d-5543-4df3-af94-f9d8355d98a2
+6341,1992-12M5 #1,Find the Cost of a Necklace,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=9984441f-b923-4bd3-ab11-af0ca2b069e5
+6345,1992-12M5 #5,Identify Wrong Information About a Rectangle,
+6346,1992-12M5 #6,Solve a Scientific Notation Problem,
+6347,1992-12M5 #7,Determine Number of Pints in 10 Gallons,
+6348,1992-12M5 #8,Find the Slope of the Line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=cc64ef4a-7496-46f0-a881-86e6a6333255
+6349,1992-12M5 #9,Find the Range of a Set of Numbers,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f2858555-5bff-45cd-8c58-3c866c470b9e
+6350,1992-12M5 #10,Estimate the Height of a Door,
+6352,1992-12M5 #12,Find the Volume of a Right Circular Cylinder,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=95d54f27-17c0-42e0-8dfd-eb8fa30120c4
+6353,1992-12M5 #13,Pool With a Leak ,
+6354,1992-12M5 #14,Solve an Equation Using Substitution,
+6355,1992-12M5 #15,Solve a Multistep Bacteria Problem,
+6356,1992-12M5 #16,Find the Length of a Segment in a Triangle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=ccc1e7d6-37ee-4522-a7c0-42cfdf2901cd
+6358,1992-12M5 #18,How Many Defective Batteries in a Sample of Batteries,
+6360,1992-12M5 #20,Solve a Function Using Substitution,
+6362,1992-12M7 #2,Select Situation to Fit Graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f82f6001-2ffe-4764-b327-d2a6adfe98ef
+6365,1992-12M7 #5,Solve for Volume of a Box,
+6366,1992-12M7 #6,Solve Exponential Equation,
+6367,1992-12M7 #7,Find Distance Between 2 Points,
+6368,1992-12M7 #8,Find Sum of Least Values That Make Equality True,
+6311,1992-12M12 #1,Understand Concept of Variable,
+6312,1992-12M12 #2,Extend a Given Pattern,
+6313,1992-12M12 #3,Apply Concept of Minimum,
+6314,1992-12M12 #4,Estimate Using a Circle Graph,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b8a3a2c9-048c-4173-ba71-ba35cf15ba40
+6315,1992-12M12 #5,Find Cost Using Percent,
+6320,1992-12M14 #1,Identify the Common Multiple of Two Numbers,
+6323,1992-12M14 #4,Evaluate Expression Using Order of Operations,
+6324,1992-12M14 #5,Find Area Between Circle and Square,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b7d293f1-3e10-4377-883c-f91346ddd905
+6326,1992-12M14 #7,Find Measure of a Bisected Angle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f93ccbdf-ff1f-4751-930d-0649f285f33f
+6327,1992-12M14 #8,Find Area of Rectangular Room,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=cadeb985-e876-43e4-8bbd-cc244e62a007
+6331,1992-12M15 #2,Find Radius of Inscribed Circle,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=75da5f7d-4382-4c39-88f0-8990de41c136
+6334,1992-12M15 #5,Express Ratio in Word Problem,
+6336,1992-12M15 #7,Understand Statistical Measure,
+6337,1992-12M15 #8,Identify Graph of a Function,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=135f69e8-92b0-4358-af5c-5c566f8eca0c
+6338,1992-12M15 #9,Compare Volume of 3 Cylinders,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=211081d0-cd3e-4f8a-a48e-b6503c7c5899
+6339,1992-12M15 #10,Express Trigonometric Function,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=0ce16534-fc80-4d8b-a25b-d478469cd180
+7240,1990-4M7 #2,Sales For One Month,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=06bad8c8-93b9-438b-9ed6-9a1e37c1e532
+7241,1990-4M7 #3,Distance Walked in One Hour,
+7242,1990-4M7 #4,Stickers Drawn From a Box,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6c6e12d5-f1fa-4e83-94d9-70cb398eda6f
+7243,1990-4M7 #5,Find the Weight of Oranges in the Picture,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=153c7b62-6665-439a-8d1d-66d5752737d5
+7244,1990-4M7 #6,Greatest Distance on a Number Line,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=3bc8894e-b7bb-45c2-a083-b86c4e78fd5d
+7247,1990-4M7 #9,Which Has the Same Shape as a Cylinder,
+7248,1990-4M7 #10,Find Total Cost of 5 Dozen Eggs,
+7249,1990-4M7 #11,Replacing a Digit Would Change the Value of a Number by How Much,
+7250,1990-4M7 #12,Find an Even Number,
+7251,1990-4M7 #13,Labels Needed For Gym Equipment,
+7253,1990-4M7 #15,Why One Fraction is Greater Than Another,
+7254,1990-4M7 #16,Find the Number of Rows of Plants,
+7255,1990-4M7 #17,Find the Number That Gives an Answer Greater Than 400,
+7256,1990-4M7 #18,Find the Decimal That Represents the Shaded Part of the Figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=17e3a386-bf1d-4a2e-a660-19a382475d57
+6258,1990-4M9 #2,Identify the True Statement (Calculator available),
+6259,1990-4M9 #3,Identify the Shape That Comes Next in a Pattern (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b05caa37-cc11-48dc-8c76-83df4f8984f6
+6261,1990-4M9 #5,Find the Right Calculator Screen in an Addition Problem (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=4b78db5d-9faf-4abc-a7b3-58e8f4209184
+6262,1990-4M9 #6,Find the Result When You Add Two Numbers and Then Divide by 3 (Calculator available),
+6264,1990-4M9 #8,How Much Pizza is Left (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a11a0061-5a26-4ef5-8b1a-687a42c1605f
+6265,1990-4M9 #9,Number of Passengers on a Plane (Calculator available),
+6267,1990-4M9 #11,Difference Between Numbers When Adding the Same Number to Each Number (Calculator available),
+6269,1990-4M9 #13,Divide Two Numbers (Calculator available),https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=524bc131-5081-42c2-a7dd-7280abd44934
+6273,1990-8M7 #1,Convert Minutes to Hours,
+6274,1990-8M7 #2,Solve a Proportion Problem,
+6275,1990-8M7 #3,A Straight Line That Cannot be Drawn on a Certain Surface,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=96c3a9fc-555a-499d-a75e-22f866c51bc2
+6277,1990-8M7 #5,Find the Weight of Tomatoes,
+6278,1990-8M7 #6,Illustrating an Equation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=33800f10-6077-4c0d-b277-789673f423d2
+6279,1990-8M7 #7,Solve an Inequality,
+6280,1990-8M7 #8,Find Probability of Drawing an Even Chip,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=e44c1e08-4714-43b0-aac4-ae4e1fa1a90f
+6281,1990-8M7 #9,What Does Measurement of a Box Represent,
+6283,1990-8M7 #11,Find the Distance Between Midpoints,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=17252fc0-4e45-4916-a94c-049272c0a553
+6284,1990-8M7 #12,"Given the Least Common Multiple, Find the Third Number",
+6285,1990-8M7 #13,Find the Diagonal Measurement of a TV Screen,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=82e3f57f-398f-4067-be5f-9fadf4422da4
+6286,1990-8M7 #14,Find Perpendicular Line Segments in a Figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=a1671a94-f14d-4712-9dc3-b861dfc7359d
+6287,1990-8M7 #15,"Write an Expression to Represent ""Width""",
+6288,1990-8M7 #16,"Given a Pattern, Find the Number of Dots in the 100<sup>th</sup> Figure",https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=06ea2030-9841-4db2-98ff-c3effaca0e65
+6290,1990-8M7 #18,Find the Probability of Selecting a Boy From 26 Students,
+6291,1990-8M9 #1,Solve a Problem Involving Parentheses (Calculator available),
+6292,1990-8M9 #2,Find the value of <em>n</em> (Calculator available),
+6295,1990-8M9 #5,Which Figure Has Two Circular Bases,
+6296,1990-8M9 #6,Find the Number in the Box,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c1c89879-6e65-44c6-afc6-03ec00ffb8cb
+6297,1990-8M9 #7,"Using a Scale, Find the Height in Inches of a House ",
+6298,1990-8M9 #8,Which Rule Makes the Ordered Pairs True,
+6301,1990-8M9 #11,"Find the Total Cost of 3 Items, Including Tax ",
+6303,1990-8M9 #13,Find the Cost of Less Than a Pound of Meat,
+6304,1990-8M9 #14,Find the Ratio of the Length of a Side of an Equilateral Triangle to its Perimeter,
+6308,1990-8M9 #18,Find the Percent of Increase,
+6310,1990-8M9 #20,Solve a Proportion,
+7987,1990-12M7 #1,Convert Minutes to Hours,
+7988,1990-12M7 #2,Solve a Proportion Problem,
+7989,1990-12M7 #3,A Straight Line That Cannot be Drawn on a Certain Surface,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f862cd09-df1a-4644-a93b-ded56d9e8057
+7990,1990-12M7 #4,How Much Liquid Has Been Let Out of a Tube,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=b806ee61-a50d-4791-9a25-6bc7fc53d2df
+7991,1990-12M7 #5,Find the Weight of Tomatoes,
+7992,1990-12M7 #6,Illustrating an Equation,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=cb214731-24d0-4908-b70d-e70829e40295
+7993,1990-12M7 #7,Solve an Inequality,
+7994,1990-12M7 #8,Find the Probability of Drawing an Even Chip,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=454ed929-1864-40d4-8e10-0734a302c8b5
+7995,1990-12M7 #9,What Does Measurement of a Box Represent,
+7998,1990-12M7 #12,"Given the Least Common Multiple, Find the Third Number",
+7999,1990-12M7 #13,Find the Diagonal Measurement of a TV Screen,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=f8623ba5-8040-40f8-8f12-bfa26af88ab5
+8000,1990-12M7 #14,Find Perpendicular Line Segments in a Figure,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=2fc43d67-9934-42a7-b31a-e85e5a5662a8
+8001,1990-12M7 #15,"Write an Expression to Represent ""Width""",
+8002,1990-12M7 #16,"Given a Pattern, Find the Number of Dots in the 100<sup>th</sup> Figure",https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=150f1e82-4e30-4593-ae2d-f8752ef1c3eb
+8004,1990-12M7 #18,"Given a Graph, Find the Value",https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6318c053-d217-4616-8291-973cf5fdae75
+8005,1990-12M7 #19,"Given a Graph, Find the Value",https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=6318c053-d217-4616-8291-973cf5fdae75
+6219,1990-12M9 #1,Find 2/3 of a Number,
+6220,1990-12M9 #2,Find the Dividend,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c9cfae1b-d52a-4d1c-a78c-296eff639bed
+6221,1990-12M9 #3,Find the Value of a Displayed Number,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=213715c7-be0e-4235-8da5-6b189f053242
+6222,1990-12M9 #4,Saving on Pencils Purchased by the Pack Vs Individually,
+6223,1990-12M9 #5,"Given the Diameter, Find the Radius",
+6225,1990-12M9 #7,Find the Number of Arrangements Possible,
+6226,1990-12M9 #8,Cut a Circle From a Square,
+6228,1990-12M9 #10,Find the Percent,
+6230,1990-12M9 #12,Substitute Values in a Formula to Get an Answer,
+6231,1990-12M9 #13,Cost to Mail a Package,
+6232,1990-12M9 #14,Approximate Sum of the Lengths of the 3 Arcs ,https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=5d8e9fbc-85f0-44e8-9fd7-9c82d4f84a8c
+6233,1990-12M9 #15,Amount in Savings Account After 6 Months,
+6234,1990-12M9 #16,Find Number of Integers Between 2 Square Roots,
+6238,1990-12M9 #20,"Use a Given Sequence, Find the Value of a Number ",https://www.nationsreportcard.gov/nqt/api/QueryResults/GetItemResource?TableID=c4d2853f-3fa7-40c3-8557-d476af0e69e7
