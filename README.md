@@ -78,8 +78,6 @@ The simulation uses [vLLM](https://github.com/vllm-project/vllm) for batched gen
 |---|---|---|
 | `temperature` | `0.7` | Introduces realistic variation in simulated reasoning |
 | `top_p` | `0.95` | Nucleus sampling; filters highly erratic tokens |
-| `max_tokens` | `512` | Allows full chain-of-thought before the final answer |
-| `logprobs` | `20` | Top-20 token log probabilities for confidence estimation |
 | `seed` | `42` | Ensures reproducibility of the initial generation pass |
 
 ## NAEP Item Handling
