@@ -52,7 +52,7 @@ This baseline uses greedy decoding (T=0) for a single deterministic estimate, an
 
 ## Diverse Names Prompt (Prompt A.4)
 
-Students are assigned first names sampled across 4 racial groups × 2 gender groups (48 names total, 6 per cell). See Appendix A.3 of the paper for the full name list. Each student in the classroom receives a distinct first name:
+Students are assigned first names sampled across 4 racial groups × 2 gender groups. See Appendix A.3 of the paper for the full name list. Each student in the classroom receives a distinct first name:
 
 ```
 You are [NAME], a student in the {grade}th grade, given the task to answer
