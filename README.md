@@ -105,7 +105,7 @@ We fit a Rasch IRT model to the binary response matrix (correct=1, incorrect=0) 
 
 $$P(X_{ni} = 1 \mid \beta_n, \delta_i) = \frac{\exp(\beta_n - \delta_i)}{1 + \exp(\beta_n - \delta_i)}$$
 
-where $\beta_n$ is the ability of student $n$ and $\delta_i$ is the difficulty of item $i$. Student abilities are estimated at the group level $\{\beta_{\text{below\_basic}}, \beta_{\text{basic}}, \beta_{\text{proficient}}, \beta_{\text{advanced}}\}$, and item difficulties $\delta_i$ are compared against real-world NAEP outcomes.
+where $\beta_n$ is the ability of student $n$ and $\delta_i$ is the difficulty of item $i$.
 
 
 
